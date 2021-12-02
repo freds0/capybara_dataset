@@ -1,0 +1,38 @@
+<annotation>
+	<folder>capivaras</folder>
+	<filename>156.jpeg</filename>
+	<path>/home/fred/Disciplinas 2021/2020-2/Aprendizado de Máquina/ModuloIntermediario/código-fonte/Aula06/Meu_Dataset/capivaras/156.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>capivara</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>29</ymin>
+			<xmax>211</xmax>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>capivara</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>62</ymin>
+			<xmax>241</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>
