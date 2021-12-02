@@ -6,7 +6,7 @@
 
 Source: https://en.wikipedia.org/wiki/Capybara
 
-This is a dataset that I collected to train my own Capybara detector with TensorFlow's Object Detection API. Images are from Google. In total, there are 200 images (180 are used for training and 20 for validation). This project is a tropical version of the [Raccoon Dataset](https://github.com/datitran/raccoon_dataset), which I was inspired by.
+This is a dataset was collected to train my own Capybara detector with TensorFlow's Object Detection API. Images are from Google. The dataset contains 200 images of capybaras (180 are used for training and 20 for validation) which were manually box-bound labelled using the tool [LabelImg](https://github.com/tzutalin/labelImg) to prepare the dataset in the Pascal VOC XML format. This project is a tropical version of the [Raccoon Dataset](https://github.com/datitran/raccoon_dataset), which I was inspired by.
 
 # Copyright
 
